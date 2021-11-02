@@ -1,11 +1,11 @@
-<h1 align="centre">ELNQYB MUSIC 🎵</h1>
+<h1 align="centre">SiRIA MUSIC🎵</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [Ahmedsiria](https://github.com/U_U_U_Q)
 ### Available on telegram as [Ahmedsiria](https://t.me/U_U_U_Q)
 
 <p align="center">
-  <img src="https://telegra.ph/file/cfa0903fd4796237f2850.jpg">
+  <img src="https://i.imgur.com/axGrcr3.jpg">
 </p>
 
 <h2> Features 🔥 </h2>
@@ -133,7 +133,7 @@ Also DaisyXmusic is inspired by many opensource bots and userbots
 
 ## Copyright & License 👮
 
- - Copyright (C) 2020 - 2021 by [ELNQYB](github.com/ahmedelnqyb) ❤️️
+ - Copyright (C) 2020 - 2021 by [Siria](github.com/U_U_U_Q) ❤️️
  - Licensed under the terms of the [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](https://github.com/TeamDaisyX/DaisyXMusic/blob/master/LICENSE)
     
 DaisyXMusic is Free Software: You can use, study share and improve it at your will. Specifically you can redistribute and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.    
